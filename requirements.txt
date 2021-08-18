@@ -1,0 +1,16 @@
+alpaca-trade-api
+backtrader
+ccxt
+IBPy2
+numpy
+matplotlib
+pandas
+pandas_ta
+pandas-market-calendars
+parsedatetime
+pyalgotrade
+requests
+scipy
+websocket-client
+yfinance
+xlsxwriter
